@@ -11,27 +11,27 @@
  * References available upon request
 
 ## Summary
+ * 20+ years of software development experience in small/medium/large commercial organisations, across multiple sectors.
+ * Previously Tech lead on key customer-facing systems for the BBC - the power behind iPlayer.
+ * Previously Principal Dev and Team lead on the award-winning BBC Video Factory portfolio - bringing over a million hours of content to all devices.
  * Recent, relevant experience in Agile and DevOps environments, continuous integration/delivery (CI/CD) to Cloud platforms.
- * Tech lead on key customer-facing systems for the BBC - the power behind iPlayer.
- * Team lead on the (award-winning) BBC Video Factory portfolio - bringing over a million hours of content to all devices.
- * Distributed high-availability SOA/web services, and message-oriented backend systems.
 
 ## Technical
 
 ### Development
- * _This is indicative of my experience but not exhaustive._
+
  * General: Object-oriented, with a functional mindset. Focus on using TDD/BDD to drive clean, maintainable code.
- * Java (5+ years): Oracle Certified Associate, Java SE 8 Programmer. Spring, Camel, Java8 features, concurrency/threading, JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM),  Servlets, REST (JAX-RS/Jersey), Maven, JAXB, Jackson, Protobuf, Guava, Commons, Hibernate (limited), DropWizard.
- * Perl (10+ years): "Modern Perl" (Moose/Moo, Plack etc), DBIx::Class, Carton, XML, Mason, mod_perl
- * Ruby (2 years for BDD): REST, XML, Sinatra, rvm/rbenv, gem development, bundler
+ * Java (5+ years): Oracle Certified Associate, Java SE 8 Programmer. Spring, Camel, Java8 features, concurrency/threading, JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM), Servlets, REST (JAX-RS/Jersey), Maven, JAXB, Jackson, Protobuf, Guava, Commons, DropWizard.
+ * Perl (10+ years): "Modern Perl" (Moose/Moo, Plack, Test::*), "the usual" - database apps, web services, data-processing (XML, JSON etc).
+ * Ruby (2 years for BDD only): Cucumber, XML, rvm/rbenv, gem development, bundler.
  * Javascript (occasional): Exposure to node.js, JQuery.
  * BDD: Ruby/Java, Cucumber, some Jasmine/Selenium.
  * Frontend: HTML, CSS, Javascript (JQuery), Bootstrap.
  * Also commercial experience with: python, C/C++, GNU toolset (bash etc), openSSL, XML toolchain (XSLT, XQuery, etc), virtualization.
- * Personal interests: education; brief dalliances with Scala, node.js.
+ * Personal interests: education; running coding dojos; dalliances with Scala, node.js.
 
 ### Data and data processing
- * Relational databases (mainly mySQL, also Oracle, Postgres); applications, schema design, optimisation
+ * Relational databases (mainly mySQL, exposure to Postgres); applications, schema design, query design and optimisation
  * "NoSQL" databases (e.g. DynamoDB, Cassandra)
  * Data and metadata representation: Storage and messaging (include schema design) using XML, JSON, Protobuf.
  * XML data manipulation: XSLT and XQuery.
@@ -85,9 +85,8 @@
 **Technical Lead / Principal Software Engineer (contract)**
 
  * Design and delivery of "Media Selector 5" application in Perl; a business-critical, audience-facing service behind all iPlayer playback. Tech: Perl (Moose,Plack), XML/JSON, NoSQL (couchdb).
- * Design and delivery of first iteration of "Workflow Engine" a business-critical publishing workflow for iPlayer content. Tech: Perl (Mason), Apache/mod_perl, HTTP, mySQL, DBIx::Class.
+ * Ongoing maintenance on existing related middleware and customer-facing services for BBC media delivery. Included major database migration (2012-2014); focus on data integrity, risk management and migration planning.
  * Led the delivery of the playback mechanism for iPlayer 3G/iOS product (Dec 2011).
- * Tech lead on major database migration; focus on data integrity, risk management and migration planning.
 
 ### 2007-2008 CAIW Netwerken (contract)
  * Maintaining Perl middleware services; reverse-engineered SOAP/WSDL contract from Perl source code for Java clients.
