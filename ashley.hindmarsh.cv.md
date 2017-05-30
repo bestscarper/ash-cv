@@ -49,7 +49,13 @@
 
 ### Aug 2015-present: Contracting services t/a "Belle Software"
 
-**Senior Software Engineer (SEO)** on-site at Zoopla (Southwark / Nov 2015-present)
+**Senior Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-present)
+
+  * Part of a cross-functional team supporting Acquisition and Onboarding services for Mendeley, through a major technology refresh.
+  * Working mostly with back-end Java 8 development, in a microservice architecture with continuous deployment. Also with Dropwizard, Kibana, Redis, TDD, BDD.
+  * Acquired in-depth expertise in OAuth2 & OpenID Connect. Also gained minor experience with Node.js and was able to use my experience with Cucumber (Ruby).
+
+**Senior Software Engineer (SEO)** on-site at Zoopla (Southwark / Nov 2015-Dec 2016)
 
   * Tasked with re-engineering of SEO support to support long-term transformation from a monolithic site to SOA; includes setting-up a permanent SEO engineering team.
   * Developing internal SEO engineering platform and reporting framework, for a major website which relies hugely on organic SEO traffic.
