@@ -1,4 +1,4 @@
-# Ashley Hindmarsh - Curriculum Vitae - October 2016
+# Ashley Hindmarsh - Curriculum Vitae - June 2017
 # Experienced contract Java and Perl developer.
 
  * 07931 532261
