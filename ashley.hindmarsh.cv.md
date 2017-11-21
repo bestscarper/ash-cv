@@ -1,4 +1,4 @@
-# Ashley Hindmarsh - Curriculum Vitae - June 2017
+# Ashley Hindmarsh - Curriculum Vitae - Nov 2017
 # Experienced contract Java and Perl developer.
 
  * 07931 532261
@@ -11,7 +11,7 @@
  * References available upon request
 
 ## Summary
- * 20+ years of software development experience in small/medium/large commercial organisations, across multiple sectors.
+ * Software development experience in small/medium/large commercial organisations, across multiple sectors.
  * Previously Tech lead on key customer-facing systems for the BBC - the power behind iPlayer.
  * Previously Principal Dev and Team lead on the award-winning BBC Video Factory portfolio - bringing over a million hours of content to all devices.
  * Recent, relevant experience in Agile and DevOps environments, continuous integration/delivery (CI/CD) to Cloud platforms.
@@ -21,18 +21,17 @@
 ### Development
 
  * General: Object-oriented, with a functional mindset. Focus on using TDD/BDD to drive clean, maintainable code.
- * Java (5+ years): Oracle Certified Associate, Java SE 8 Programmer. Spring, Camel, Java8 features, concurrency/threading, JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM), Servlets, REST (JAX-RS/Jersey), Maven, JAXB, Jackson, Protobuf, Guava, Commons, DropWizard.
+ * Java (5+ years): Oracle Certified Associate, Java SE 8 Programmer. Spring, Apache Camel, Java8, Reactive/RxJava,  JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM), Servlets, REST (JAX-RS/Jersey), Maven, JAXB, Jackson, Protobuf, Guava, Commons, DropWizard.
  * Perl (10+ years): "Modern Perl" (Moose/Moo, Plack, Test::*), "the usual" - database apps, web services, data-processing (XML, JSON etc).
  * Ruby (2 years for BDD only): Cucumber, XML, rvm/rbenv, gem development, bundler.
  * Javascript (occasional): Exposure to node.js, JQuery.
  * BDD: Ruby/Java, Cucumber, some Jasmine/Selenium.
  * Frontend: HTML, CSS, Javascript (JQuery), Bootstrap.
  * Also commercial experience with: python, C/C++, GNU toolset (bash etc), openSSL, XML toolchain (XSLT, XQuery, etc), virtualization.
- * Personal interests: education; running coding dojos; dalliances with Scala, node.js.
 
 ### Data and data processing
  * Relational databases (mainly mySQL, exposure to Postgres); applications, schema design, query design and optimisation
- * "NoSQL" databases (e.g. DynamoDB, Cassandra)
+ * "NoSQL" databases and key/value stores (e.g. DynamoDB, Cassandra, Redis, Memcached)
  * Data and metadata representation: Storage and messaging (include schema design) using XML, JSON, Protobuf.
  * XML data manipulation: XSLT and XQuery.
 
@@ -51,9 +50,11 @@
 
 **Senior Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-present)
 
-  * Part of a cross-functional team supporting Acquisition and Onboarding services for Mendeley, through a major technology refresh.
-  * Working mostly with back-end Java 8 development, in a microservice architecture with continuous deployment. Also with Dropwizard, Kibana, Redis, TDD, BDD.
-  * Acquired in-depth expertise in OAuth2 & OpenID Connect. Also gained minor experience with Node.js and was able to use my experience with Cucumber (Ruby).
+  * Part of multiple cross-functional teams for Mendeley, through a major technology refresh.
+  ** Acquisition and Onboarding: Migrating local Oauth2 sign-in to federated OpenID Connect solution. High-volume, mission-critical services.
+  ** Building new services for flagship 'Reference Manager 2' product. Mix of client-facing and message-processing.
+  * Working mostly with back-end Java 8 development, in a microservice architecture with continuous deployment.
+  * Technologies used/learned: Java 8, Dropwizard, Kibana, Redis, TDD, BDD, Oauth2, OpenID Connect, RxJava, Docker/ECS, Terraform, AWS.
 
 **Senior Software Engineer (SEO)** on-site at Zoopla (Southwark / Nov 2015-Dec 2016)
 
