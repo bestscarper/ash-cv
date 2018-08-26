@@ -1,10 +1,10 @@
-# Ashley Hindmarsh - Curriculum Vitae - Nov 2017
+# Ashley Hindmarsh - Curriculum Vitae - August 2018
 # Experienced contract Java and Perl developer.
 
  * 07931 532261
  * ash-jobs@best-scarper.co.uk
  * British Citizen
- * Locations considered: London / Sussex / M23 / remote
+ * Locations considered: London / Sussex / remote
  * Security Clearance: Disclosure Scotland
  * [https://uk.linkedin.com/in/ashleyhindmarsh](https://uk.linkedin.com/in/ashleyhindmarsh)
  * Current CV: [http://www.bellesoft.uk/ash-cv/ashley.hindmarsh.cv.pdf](http://www.bellesoft.uk/ash-cv/ashley.hindmarsh.cv.pdf)
@@ -22,12 +22,12 @@
 
  * General: Object-oriented, with a functional mindset. Focus on using TDD/BDD to drive clean, maintainable code.
  * Java (5+ years): Oracle Certified Associate, Java SE 8 Programmer. Spring, Apache Camel, Java8, Reactive/RxJava,  JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM), Servlets, REST (JAX-RS/Jersey), Maven, JAXB, Jackson, Protobuf, Guava, Commons, DropWizard.
- * Perl (10+ years): "Modern Perl" (Moose/Moo, Plack, Test::*), "the usual" - database apps, web services, data-processing (XML, JSON etc).
+ * Perl (10+ years): "Modern Perl" OO (Moose/Moo, Plack) - database apps, web services, data-processing (XML, JSON etc).
  * Ruby (2 years for BDD only): Cucumber, XML, rvm/rbenv, gem development, bundler.
  * Javascript (occasional): Exposure to node.js, JQuery.
  * BDD: Ruby/Java, Cucumber, some Jasmine/Selenium.
- * Frontend: HTML, CSS, Javascript (JQuery), Bootstrap.
- * Also commercial experience with: python, C/C++, GNU toolset (bash etc), openSSL, XML toolchain (XSLT, XQuery, etc), virtualization.
+ * Frontend (limited): HTML, CSS, Javascript (JQuery), Bootstrap.
+ * Also commercial experience with: Python, C/C++, GNU toolset (bash etc), OpenSSL, XML toolchain (XSLT, XQuery, etc), virtualization.
 
 ### Data and data processing
  * Relational databases (mainly mySQL, exposure to Postgres); applications, schema design, query design and optimisation
@@ -48,21 +48,21 @@
 
 ### Aug 2015-present: Contracting services t/a "Belle Software"
 
-**Senior Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-present)
+**Java Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-July 2018)
 
   * Part of multiple cross-functional teams for Mendeley, through a major technology refresh.
   ** Acquisition and Onboarding: Migrating local Oauth2 sign-in to federated OpenID Connect solution. High-volume, mission-critical services.
-  ** Building new services for flagship 'Reference Manager 2' product. Mix of client-facing and message-processing.
+  ** Building new services for flagship 'Reference Manager 2' product - mix of client-facing and message-processing.
   * Working mostly with back-end Java 8 development, in a microservice architecture with continuous deployment.
-  * Technologies used/learned: Java 8, Dropwizard, Kibana, Redis, TDD, BDD, Oauth2, OpenID Connect, RxJava, Docker/ECS, Terraform, AWS.
+  * Technologies used/learned: Java 8, Dropwizard, Kibana, Redis, TDD, BDD, Oauth2, OpenID Connect, RxJava, Docker/ECS, Terraform, AWS, Payments (Adyen).
 
-**Senior Software Engineer (SEO)** on-site at Zoopla (Southwark / Nov 2015-Dec 2016)
+**Perl Software Engineer (SEO)** on-site at Zoopla (Southwark / Nov 2015-Dec 2016)
 
   * Tasked with re-engineering of SEO support to support long-term transformation from a monolithic site to SOA; includes setting-up a permanent SEO engineering team.
   * Developing internal SEO engineering platform and reporting framework, for a major website which relies hugely on organic SEO traffic.
   * Perl, Python, Google APIs, Google Analytics, AWS Redshift, Birst BI tools. Some HTML/CSS/Javascript.
 
-**Senior Software Engineer** on-site at Sky (Osterley / Aug-Oct 2015)
+**Java Software Engineer** on-site at Sky (Osterley / Aug-Oct 2015)
 
   * Working within small Agile teams, developing high-volume Web services to support both OTT client-facing and back-end APIs.
   * Tech: Java, Cassandra, Jersey, AWS+Ansible, Docker, Jenkins, AppDynamics, Graphite+Grafana.
