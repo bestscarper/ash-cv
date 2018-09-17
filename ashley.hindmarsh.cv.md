@@ -21,7 +21,7 @@
 ### Development
 
  * General: Object-oriented, with a functional mindset. Focus on using TDD/BDD to drive clean, maintainable code.
- * Java (5+ years): Oracle Certified Associate, Java SE 8 Programmer. Spring, Apache Camel, Java8, Reactive/RxJava,  JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM), Servlets, REST (JAX-RS/Jersey), Maven, JAXB, Jackson, Protobuf, Guava, Commons, DropWizard.
+ * Java (5+ years): Oracle Certified Associate, Java SE 8 Programmer. Spring, Apache Camel, Java8, Reactive/RxJava,  JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM), Servlets, REST (JAX-RS/Jersey), Maven, JAXB, Jackson, Protobuf, Guava, Commons, Spring Boot, DropWizard.
  * Perl (10+ years): "Modern Perl" OO (Moose/Moo, Plack) - database apps, web services, data-processing (XML, JSON etc).
  * Ruby (2 years for BDD only): Cucumber, XML, rvm/rbenv, gem development, bundler.
  * Javascript (occasional): Exposure to node.js, JQuery.
@@ -51,10 +51,10 @@
 **Java Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-July 2018)
 
   * Part of multiple cross-functional teams for Mendeley, through a major technology refresh.
-  ** Acquisition and Onboarding: Migrating local Oauth2 sign-in to federated OpenID Connect solution. High-volume, mission-critical services.
-  ** Building new services for flagship 'Reference Manager 2' product - mix of client-facing and message-processing.
+   * Acquisition and Onboarding: Migrating local Oauth2 sign-in to federated OpenID Connect solution. High-volume, mission-critical services.
+   * Building new services for flagship 'Reference Manager 2' product - mix of client-facing and message-processing.
   * Working mostly with back-end Java 8 development, in a microservice architecture with continuous deployment.
-  * Technologies used/learned: Java 8, Dropwizard, Kibana, Redis, TDD, BDD, Oauth2, OpenID Connect, RxJava, Docker/ECS, Terraform, AWS, Payments (Adyen).
+  * Technologies used/learned: Java 8, Dropwizard, Kibana, Redis, TDD, BDD, Oauth2, OpenID Connect (OIDC), RxJava, Docker/ECS, Terraform, AWS, Payments integration (Adyen).
 
 **Perl Software Engineer (SEO)** on-site at Zoopla (Southwark / Nov 2015-Dec 2016)
 
@@ -74,7 +74,7 @@
 
  * Led a new team, charged with reduction of both AWS costs and technical debt. Responsible for a mix of greenfield and legacy components.
  * Design and build of components for the BBC's [Video Factory](http://www.bbc.co.uk/blogs/internet/entries/61d2795d-ad53-3547-a06a-a038cf1ef325). Video Factory ensures that BBC digital audio and video is available to users across a vast range of devices.  Components are designed to be highly-available and scalable.
- * Java/Camel/Jersey applications, continuous integration (Jenkins), AWS in a devops environment. Extensive use of AWS (EC2/ELB/ASG,CloudFormation,S3,SQS,SNS - limited exposure to DynamoDB and Lambdas).
+ * Java (Camel/Jersey/Spring Boot) applications, continuous integration (Jenkins), AWS in a devops environment. Extensive use of AWS (EC2/ELB/ASG,CloudFormation,S3,SQS,SNS - limited exposure to DynamoDB and Lambdas).
  * Attended AWS Architecture courses. Contributed/presented at BBC internal cloud forum.
  * Working environment: Agile with Kanban("Scrumban"), TDD/BDD (Java/Ruby). Pair programming (where appropriate).
  
@@ -104,7 +104,3 @@
 
 ### 1999-2005 Best Scarper Ltd
  * Providing freelance software engineering services. Multiple clients.
-
-### 1993-1999 Granada Learning Ltd
- * Software Engineer - Windows/Acorn/C++ - Educational Multimedia CD-ROM Development
-
