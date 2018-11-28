@@ -1,18 +1,17 @@
-# Ashley Hindmarsh - Curriculum Vitae - August 2018
-# Experienced contract Java and Perl developer.
+# Ashley Hindmarsh - Curriculum Vitae - November 2018
+# Experienced London-based contract Agile Java and Perl developer
 
- * 07931 532261
- * ash-jobs@best-scarper.co.uk
+ * Not currently seeking permanent roles
+ * Mobile 07931 532261
+ * Email ash-jobs@best-scarper.co.uk
  * British Citizen
- * Locations considered: London / Sussex / remote
- * Security Clearance: Disclosure Scotland
  * [https://uk.linkedin.com/in/ashleyhindmarsh](https://uk.linkedin.com/in/ashleyhindmarsh)
  * Current CV: [http://www.bellesoft.uk/ash-cv/ashley.hindmarsh.cv.pdf](http://www.bellesoft.uk/ash-cv/ashley.hindmarsh.cv.pdf)
  * References available upon request
 
 ## Summary
  * Software development experience in small/medium/large commercial organisations, across multiple sectors.
- * Previously Tech lead on key customer-facing systems for the BBC - the power behind iPlayer.
+ * Previously Tech Lead on key customer-facing systems for the BBC - the power behind iPlayer.
  * Previously Principal Dev and Team lead on the award-winning BBC Video Factory portfolio - bringing over a million hours of content to all devices.
  * Recent, relevant experience in Agile and DevOps environments, continuous integration/delivery (CI/CD) to Cloud platforms.
 
@@ -48,6 +47,12 @@
 
 ### Aug 2015-present: Contracting services t/a "Belle Software"
 
+**Java Developer** on-site at Tesco Bank (London / Oct 2018-Apr 2019)
+
+  * Part of a small team carving the legacy Tesco PayPlus (formerly Pawqwiq) backend systems into a microservice
+  architecture.
+  * Tech stack: Java 8, Spring Boot, Hibernate, MySQL, Kotlin, Groovy, AWS, Kubernetes, bash.
+
 **Java Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-July 2018)
 
   * Part of multiple cross-functional teams for Mendeley, through a major technology refresh.
@@ -68,28 +73,23 @@
   * Tech: Java, Cassandra, Jersey, AWS+Ansible, Docker, Jenkins, AppDynamics, Graphite+Grafana.
   * Working environment: Agile with Scrum/Kanban, pair programming with TDD/BDD (Java/Ruby).
 
-### 2014-(Aug)2015: BBC Digital - Media Services
+### August 2008 - July 2015: BBC Digital/Future Media
 
-**Team Lead / Principal Software Engineer**
+** 2014-2015 : Team Lead / Principal Software Engineer - Media Services **
 
  * Led a new team, charged with reduction of both AWS costs and technical debt. Responsible for a mix of greenfield and legacy components.
  * Design and build of components for the BBC's [Video Factory](http://www.bbc.co.uk/blogs/internet/entries/61d2795d-ad53-3547-a06a-a038cf1ef325). Video Factory ensures that BBC digital audio and video is available to users across a vast range of devices.  Components are designed to be highly-available and scalable.
- * Java (Camel/Jersey/Spring Boot) applications, continuous integration (Jenkins), AWS in a devops environment. Extensive use of AWS (EC2/ELB/ASG,CloudFormation,S3,SQS,SNS - limited exposure to DynamoDB and Lambdas).
- * Attended AWS Architecture courses. Contributed/presented at BBC internal cloud forum.
+ * Java (Camel/Jersey) applications, continuous integration (Jenkins), AWS in a devops environment. Extensive use of AWS (EC2/ELB/ASG,CloudFormation,S3,SQS,SNS - limited exposure to DynamoDB and Lambdas).
  * Working environment: Agile with Kanban("Scrumban"), TDD/BDD (Java/Ruby). Pair programming (where appropriate).
  
-### 2012-2014: BBC Future Media - Publishing Services
-
-**Principal Software Engineer**
+** 2012-2014 : Principal Software Engineer - Publishing Services **
 
  * Development and maintenance of Java components for Video Factory (details above), and existing Perl components.
  * Ongoing tech lead responsibility for selected iPlayer's core services - then supporting 18 million+ req/day.
  * Designed and delivered a secure SAML gateway supporting the "BBC Store" and the "Xbox iPlayer" products.
  * Organised coding "dojos" for TDD.
 
-### 2008-2012: BBC Future Media - Online Technology Group
-
-**Technical Lead / Principal Software Engineer (contract)**
+** 2008-2012 : Technical Lead / Principal Software Engineer **
 
  * Design and delivery of "Media Selector 5" application in Perl; a business-critical, audience-facing service behind all iPlayer playback. Tech: Perl (Moose,Plack), XML/JSON, NoSQL (couchdb).
  * Ongoing maintenance on existing related middleware and customer-facing services for BBC media delivery. Included major database migration (2012-2014); focus on data integrity, risk management and migration planning.
@@ -100,7 +100,6 @@
 
 ### 2005-2007 Semantico Ltd
  * Developing new client sites (e.g. www.blackwellreference.com) in Perl using Semantico's backend CMS and access management technology.
- * Some Java work (Eclipse/Tomcat/Hibernate/PostgreSQL)
 
 ### 1999-2005 Best Scarper Ltd
  * Providing freelance software engineering services. Multiple clients.
