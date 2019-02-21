@@ -1,7 +1,6 @@
-# Ashley Hindmarsh - Curriculum Vitae - November 2018
-# Experienced London-based contract Agile Java and Perl developer
+# Ashley Hindmarsh - Curriculum Vitae - February 2019
+# Experienced London-based contract Agile Java developer
 
- * Not currently seeking permanent roles
  * Mobile 07931 532261
  * Email ash-jobs@best-scarper.co.uk
  * British Citizen
@@ -11,6 +10,7 @@
 
 ## Summary
  * Software development experience in small/medium/large commercial organisations, across multiple sectors.
+ * Happiest as part of an agile team, focussed on customer needs and delivering business value.
  * Previously Tech Lead on key customer-facing systems for the BBC - the power behind iPlayer.
  * Previously Principal Dev and Team lead on the award-winning BBC Video Factory portfolio - bringing over a million hours of content to all devices.
  * Recent, relevant experience in Agile and DevOps environments, continuous integration/delivery (CI/CD) to Cloud platforms.
@@ -20,23 +20,22 @@
 ### Development
 
  * General: Object-oriented, with a functional mindset. Focus on using TDD/BDD to drive clean, maintainable code.
- * Java (5+ years): Oracle Certified Associate, Java SE 8 Programmer. Spring, Apache Camel, Java8, Reactive/RxJava,  JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM), Servlets, REST (JAX-RS/Jersey), Maven, JAXB, Jackson, Protobuf, Guava, Commons, Spring Boot, DropWizard.
+ * Use of containerization (Docker) to reduce distance between development and production.
+ * Java (6+ years): Oracle Certified Associate (Java 8). Spring Boot/Core/Data/Cloud, Java8+, Reactive/RxJava, Apache Camel, JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM), REST (JAX-RS/Jersey/Spring), Maven/Gradle, JAXB, JSON, DropWizard.
  * Perl (10+ years): "Modern Perl" OO (Moose/Moo, Plack) - database apps, web services, data-processing (XML, JSON etc).
- * Ruby (2 years for BDD only): Cucumber, XML, rvm/rbenv, gem development, bundler.
  * Javascript (occasional): Exposure to node.js, JQuery.
- * BDD: Ruby/Java, Cucumber, some Jasmine/Selenium.
- * Frontend (limited): HTML, CSS, Javascript (JQuery), Bootstrap.
- * Also commercial experience with: Python, C/C++, GNU toolset (bash etc), OpenSSL, XML toolchain (XSLT, XQuery, etc), virtualization.
+ * Other dynamic languages: Javascript, Ruby, Python
+ * Frontend (basic): HTML, CSS, Javascript (JQuery), Bootstrap.
 
 ### Data and data processing
  * Relational databases (mainly mySQL, exposure to Postgres); applications, schema design, query design and optimisation
- * "NoSQL" databases and key/value stores (e.g. DynamoDB, Cassandra, Redis, Memcached)
+ * "NoSQL" databases and key/value stores (e.g. DynamoDB, Redis, Memcached)
  * Data and metadata representation: Storage and messaging (include schema design) using XML, JSON, Protobuf.
  * XML data manipulation: XSLT and XQuery.
 
 ### Delivery
- * Web-scale architecture: availability, maintainability, API design, caching, volumetrics, microservices
- * Platforms: Linux (mostly RHEL/CentOS, Ubuntu)
+ * Web-scale architecture: availability, maintainability, API design, caching, volumetrics, microservices, performance testing.
+ * Platforms: Linux (mostly RHEL/CentOS, Ubuntu).
  * Agile: Scrum, Kanban, continuous integration/delivery, TDD, BDD
  * Search Engine Optimisation (SEO) - mainly for Google (Analytics), focus on engineering practice to support SEO requirements.
  * Cloud: AWS architecture and implementation: EC2 (with ELB/ASG), SQS, SNS, S3, IAM, Cloud Formation, Cloudwatch.
@@ -49,9 +48,11 @@
 
 **Java Developer** on-site at Tesco Bank (London / Oct 2018-Apr 2019)
 
-  * Part of a small team carving the legacy Tesco PayPlus (formerly Pawqwiq) backend systems into a microservice
-  architecture.
-  * Tech stack: Java 8, Spring Boot, Hibernate, MySQL, Kotlin, Groovy, AWS, Kubernetes, bash.
+  * Part of a team of 8, engaged to rebuild the legacy Tesco PayPlus (formerly Pawqwiq) backend monolith into a microservice.
+  architecture. Many techologies involved end-to-end, including integration of fraud prevention and detection (Cryptomathic, InAuth, Accertify), OAuth, payments (3D Secure).
+  * I translated technical specs (UML) into work units (Jira), feeding back into Agile stories, working closely with a solutions architect to ensure we are meeting the spec. Development included all functional tests, and infrastructure.
+  * Tech stack: Java 8+11, Spring Boot/Security/OAuth/Data/Cloud, Hibernate, MySQL + Flyway, Kotlin, Groovy (Gradle/Spock), AWS, Kubernetes, Jenkins. CI/CD via in-house AWS/k8s pipelines and platform.
+  * Legacy stack: Java 7, Spring, Tomcat, Oracle, Cucumber.
 
 **Java Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-July 2018)
 
@@ -75,21 +76,21 @@
 
 ### August 2008 - July 2015: BBC Digital/Future Media
 
-** 2014-2015 : Team Lead / Principal Software Engineer - Media Services **
+*2014-2015 : Team Lead / Principal Software Engineer - Media Services*
 
  * Led a new team, charged with reduction of both AWS costs and technical debt. Responsible for a mix of greenfield and legacy components.
  * Design and build of components for the BBC's [Video Factory](http://www.bbc.co.uk/blogs/internet/entries/61d2795d-ad53-3547-a06a-a038cf1ef325). Video Factory ensures that BBC digital audio and video is available to users across a vast range of devices.  Components are designed to be highly-available and scalable.
  * Java (Camel/Jersey) applications, continuous integration (Jenkins), AWS in a devops environment. Extensive use of AWS (EC2/ELB/ASG,CloudFormation,S3,SQS,SNS - limited exposure to DynamoDB and Lambdas).
  * Working environment: Agile with Kanban("Scrumban"), TDD/BDD (Java/Ruby). Pair programming (where appropriate).
  
-** 2012-2014 : Principal Software Engineer - Publishing Services **
+*2012-2014 : Principal Software Engineer - Publishing Services*
 
  * Development and maintenance of Java components for Video Factory (details above), and existing Perl components.
  * Ongoing tech lead responsibility for selected iPlayer's core services - then supporting 18 million+ req/day.
  * Designed and delivered a secure SAML gateway supporting the "BBC Store" and the "Xbox iPlayer" products.
  * Organised coding "dojos" for TDD.
 
-** 2008-2012 : Technical Lead / Principal Software Engineer **
+*2008-2012 : Technical Lead / Principal Software Engineer*
 
  * Design and delivery of "Media Selector 5" application in Perl; a business-critical, audience-facing service behind all iPlayer playback. Tech: Perl (Moose,Plack), XML/JSON, NoSQL (couchdb).
  * Ongoing maintenance on existing related middleware and customer-facing services for BBC media delivery. Included major database migration (2012-2014); focus on data integrity, risk management and migration planning.
