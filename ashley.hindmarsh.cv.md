@@ -1,5 +1,5 @@
-# Ashley Hindmarsh - Curriculum Vitae - February 2019
-# Experienced London-based contract Agile Java developer
+# Ashley Hindmarsh - Curriculum Vitae - November 2019
+# Java Consulting Engineer (Freelance)
 
  * Mobile 07931 532261
  * Email ash-jobs@best-scarper.co.uk
@@ -18,41 +18,35 @@
 ## Technical
 
 ### Development
-
  * General: Object-oriented, with a functional mindset. Focus on using TDD/BDD to drive clean, maintainable code.
  * Use of containerization (Docker) to reduce distance between development and production.
- * Java (6+ years): Oracle Certified Associate (Java 8). Spring Boot/Core/Data/Cloud, Java8+, Reactive/RxJava, Apache Camel, JMS, TDD/BDD (JUnit, Mockito, Cucumber-JVM), REST (JAX-RS/Jersey/Spring), Maven/Gradle, JAXB, JSON, DropWizard.
+ * Java (7+ years): Oracle Certified Associate (Java 8). Spring Boot/Core/Data/Cloud/Batch/Security, Java8+, Reactive, Apache Camel, TDD/BDD (JUnit, Mockito, Cucumber-JVM), REST (JAX-RS/Jersey/Spring), Maven/Gradle, JAXB, JSON, DropWizard.
  * Perl (10+ years): "Modern Perl" OO (Moose/Moo, Plack) - database apps, web services, data-processing (XML, JSON etc).
  * Javascript (occasional): Exposure to node.js, JQuery.
  * Other dynamic languages: Javascript, Ruby, Python
  * Frontend (basic): HTML, CSS, Javascript (JQuery), Bootstrap.
-
-### Data and data processing
- * Relational databases (mainly mySQL, exposure to Postgres); applications, schema design, query design and optimisation
+ * Relational databases: applications, schema design, query design and optimisation
  * "NoSQL" databases and key/value stores (e.g. DynamoDB, Redis, Memcached)
- * Data and metadata representation: Storage and messaging (include schema design) using XML, JSON, Protobuf.
- * XML data manipulation: XSLT and XQuery.
 
 ### Delivery
  * Web-scale architecture: availability, maintainability, API design, caching, volumetrics, microservices, performance testing.
- * Platforms: Linux (mostly RHEL/CentOS, Ubuntu).
- * Agile: Scrum, Kanban, continuous integration/delivery, TDD, BDD
- * Search Engine Optimisation (SEO) - mainly for Google (Analytics), focus on engineering practice to support SEO requirements.
  * Cloud: AWS architecture and implementation: EC2 (with ELB/ASG), SQS, SNS, S3, IAM, Cloud Formation, Cloudwatch.
- * Security: PKI; SAML authentication; hashing, encryption/decryption, signing/verification with XML standards (xmldsig/xmlenc).
- * Support software/systems: Jenkins, Maven, Puppet/Ansible, Subversion, Git, Jira, Confluence, Splunk
+ * Security: PKI; SSO (OpenID Connect) hashing, encryption/decryption, signing/verification with XML standards (xmldsig/xmlenc), some expose to SAML.
+ * Support software/systems: Jenkins, Maven, Gradle, Puppet/Ansible, Subversion, Git, Jira, Confluence, Splunk
 
 ## Experience
 
 ### Aug 2015-present: Contracting services t/a "Belle Software"
 
-**Java Developer** on-site at Tesco Bank (London / Oct 2018-Apr 2019)
+**Java Developer** on-site at Tesco Bank (London / Oct 2018-present)
 
-  * Part of a team of 8, engaged to rebuild the legacy Tesco PayPlus (formerly Pawqwiq) backend monolith into a microservice.
-  architecture. Many techologies involved end-to-end, including integration of fraud prevention and detection (Cryptomathic, InAuth, Accertify), OAuth, payments (3D Secure).
+  * Part of a team, engaged in multiple projects:
+    * Rebuild the legacy Tesco PayPlus backend monolith in a microservice architecture. Multiple techologies involved end-to-end, including integration of fraud prevention and detection (Cryptomathic, InAuth, Accertify), OAuth, payments (3D Secure).
+    * Migrating services from AWS to Azure, while maintaining the integrity of the overall system.
+    * Introduction of a new backend payment system, includingg migrgation of the entire customer base. I was able to apply my previous experience from similar projects.
   * I translated technical specs (UML) into work units (Jira), feeding back into Agile stories, working closely with a solutions architect to ensure we are meeting the spec. Development included all functional tests, and infrastructure.
-  * Tech stack: Java 8+11, Spring Boot/Security/OAuth/Data/Cloud, Hibernate, MySQL + Flyway, Kotlin, Groovy (Gradle/Spock), AWS, Kubernetes, Jenkins. CI/CD via in-house AWS/k8s pipelines and platform.
-  * Legacy stack: Java 7, Spring, Tomcat, Oracle, Cucumber.
+  * Tech stack: Java 8+11, Spring Boot/Security/OAuth/Data/Cloud, Hibernate, MySQL + Flyway, Kotlin, Groovy (Gradle/Spock), Spock, Wiremock, Kubernetes, Jenkins. CI/CD via in-house AWS/k8s pipelines and platform.
+  * Legacy stack: Java 7, Spring, Tomcat, Jersey, Oracle, Cucumber, Spring Batch.
 
 **Java Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-July 2018)
 
@@ -71,8 +65,6 @@
 **Java Software Engineer** on-site at Sky (Osterley / Aug-Oct 2015)
 
   * Working within small Agile teams, developing high-volume Web services to support both OTT client-facing and back-end APIs.
-  * Tech: Java, Cassandra, Jersey, AWS+Ansible, Docker, Jenkins, AppDynamics, Graphite+Grafana.
-  * Working environment: Agile with Scrum/Kanban, pair programming with TDD/BDD (Java/Ruby).
 
 ### August 2008 - July 2015: BBC Digital/Future Media
 
