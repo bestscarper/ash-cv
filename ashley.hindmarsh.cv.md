@@ -14,6 +14,7 @@
  * Previously Tech Lead on key customer-facing systems for the BBC - the power behind iPlayer.
  * Previously Principal Dev and Team lead on the award-winning BBC Video Factory portfolio - bringing over a million hours of content to all devices.
  * Recent, relevant experience in Agile and DevOps environments, continuous integration/delivery (CI/CD) to Cloud platforms.
+ * Ethos: Each line of code has an ongoing cost, so write as little as possible, and keep everything else tidy. Tests are first-class code.
 
 ## Technical
 
@@ -43,7 +44,7 @@
   * Part of a team, engaged in multiple projects:
     * Rebuild the legacy Tesco PayPlus backend monolith in a microservice architecture. Multiple techologies involved end-to-end, including integration of fraud prevention and detection (Cryptomathic, InAuth, Accertify), OAuth, payments (3D Secure).
     * Migrating services from AWS to Azure, while maintaining the integrity of the overall system.
-    * Introduction of a new backend payment system, includingg migrgation of the entire customer base. I was able to apply my previous experience from similar projects.
+    * Introduction of a new backend payment system, including migration of the entire customer base. I was able to apply my previous experience from similar projects.
   * I translated technical specs (UML) into work units (Jira), feeding back into Agile stories, working closely with a solutions architect to ensure we are meeting the spec. Development included all functional tests, and infrastructure.
   * Tech stack: Java 8+11, Spring Boot/Security/OAuth/Data/Cloud, Hibernate, MySQL + Flyway, Kotlin, Groovy (Gradle/Spock), Spock, Wiremock, Kubernetes, Jenkins. CI/CD via in-house AWS/k8s pipelines and platform.
   * Legacy stack: Java 7, Spring, Tomcat, Jersey, Oracle, Cucumber, Spring Batch.
