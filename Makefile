@@ -1,7 +1,7 @@
 cv_root = ashley.hindmarsh.cv
 cv_markdown = $(cv_root).md
 pwd = $(shell pwd)
-docker_cmd = docker run -v $(pwd):/docs vpetersson/pandoc /bin/sh -c
+docker_cmd = docker run --rm -v $(pwd):/docs vpetersson/pandoc /bin/sh -c
 
 .PHONY: all pdf html doc
 
