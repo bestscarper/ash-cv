@@ -1,4 +1,4 @@
-# Ashley Hindmarsh - Curriculum Vitae - August 2020
+# Ashley Hindmarsh - Curriculum Vitae - June 2021
 # Java Consulting Engineer (Freelance)
 
  * Mobile 07931 532261
@@ -14,18 +14,17 @@
  * Previously Tech Lead on key customer-facing systems for the BBC - the power behind iPlayer.
  * Previously Principal Dev and Team lead on the award-winning BBC Video Factory portfolio - bringing over a million hours of content to all devices.
  * Recent, relevant experience in Agile and DevOps environments, continuous integration/delivery (CI/CD) to Cloud platforms.
- * Ethos: _Each line of code has an ongoing cost, so write as little as possible, and keep everything else tidy. Tests are first-class code._
+ * Ethos: _Each line of code has an ongoing cost, so write as little as possible, and keep everything else tidy. Tests are first-class code: Testability is a major part of design._
 
 ## Technical
 
 ### Development
  * General: Object-oriented, with a functional mindset. Focus on using TDD/BDD to drive clean, maintainable code.
  * Use of containerization (Docker) to reduce distance between development and production.
- * Java (7+ years): Oracle Certified Associate (Java 8). Spring Boot/Core/Data/Cloud/Batch/Security, Java8+, Reactive, Apache Camel, TDD/BDD (JUnit, Mockito, Cucumber-JVM), REST (JAX-RS/Jersey/Spring), Maven/Gradle, JAXB, JSON, DropWizard.
+ * Java (10+ years): Oracle Certified Associate (Java 8). Spring ecosystem, Java (up to 15), Reactive, Apache Camel, TDD/BDD (JUnit, Mockito, Cucumber-JVM), REST (JAX-RS/Jersey/Spring), Maven/Gradle, JAXB, JSON, DropWizard.
  * Perl (10+ years): "Modern Perl" OO (Moose/Moo, Plack) - database apps, web services, data-processing (XML, JSON etc).
- * Javascript (occasional): Exposure to node.js, JQuery.
- * Other dynamic languages: Javascript, Ruby, Python
- * Frontend (basic): HTML, CSS, Javascript (JQuery), Bootstrap.
+ * Other dynamic languages: Javascript (vanilla, and node.js), Ruby, Python (varying experience)
+ * Frontend: _I've been working with Web UIs throughout my career. Now I mainly maintain rather than develop because it's a massive field in itself. So I'm fine with HTML, CSS, Javascript, Bootstrap, templating_
  * Relational databases: applications, schema design, query design and optimisation
  * "NoSQL" databases and key/value stores (e.g. DynamoDB, Redis, Memcached)
 
@@ -33,26 +32,28 @@
  * Web-scale architecture: availability, maintainability, API design, caching, volumetrics, microservices, performance testing.
  * Distributed systems: Design and maintenance for monoliths, microservices and message-oriented systems. They all have their place.
  * Cloud (IaaS/PaaS):
-    * AWS architecture and implementation: EC2 (with ELB/ASG), SQS, SNS, S3, IAM, Cloud Formation.
+    * AWS & Azure (architecture and implementation): Using comparable tech across both: Compute / Kubernetes / Queue / DB / IAM / Files / IaC
     * Recent Azure experience, using Azure Devops pipelines, deploying into AKS clusters, App Gateway, KeyVault.
- * Security: PKI; SSO (OpenID Connect) hashing, encryption/decryption, signing/verification with XML standards (xmldsig/xmlenc), some expose to SAML.
+ * Security: PKI; SSO (OpenID Connect) hashing, encryption/decryption, signing/verification with XML standards, some exposure to SAML.
  * Support software/systems: Jenkins, Maven, Gradle, Puppet/Ansible, Subversion, Git, Jira, Confluence, Splunk
 
 ## Experience
 
-### Aug 2015-present: Contracting services t/a "Belle Software"
+### Aug 2015-present: Contracting services t/a "Belle Software Ltd" (or an umbrella)
 
-**Java Developer** on-site at Tesco Bank (London / Oct 2018-present)
+**Senior Developer / Tech Lead** at Tesco PayPlus (London+remote / Oct 2018-present)
 
-  * Part of a team, engaged in multiple projects, as _de facto_ technical lead.
-    * Rebuilding the legacy Tesco PayPlus backend monolith in a microservice architecture. Multiple techologies involved end-to-end, including integration of third-party fraud prevention and detection (Cryptomathic, InAuth, Accertify), OAuth, payments (3DS1/2).
-    * Migrating services from AWS to Azure, while maintaining the integrity of the overall system. New services are running on a Kubernetes enviroment in Azure (AKS), using Azure Devops pipelines.
-    * Introduction of a new backend payment system, including migration of the entire customer base, designing and implementing a pipeline to migrate over 1 million legacy payment devices.
-  * Working with solution engineers and product managers, I translated technical specs into work units (Jira), feeding back into Agile stories, working closely with a solutions architect to ensure we are meeting the spec. Development included all functional tests, and infrastructure.
-  * New Tech stack: Java 8 & 11, Spring Boot/Security/OAuth/Data/Cloud, Hibernate, MySQL, Kotlin, Groovy (Gradle/Spock), Wiremock, Kubernetes, Jenkins. CI/CD via Azure piplines.
-  * Legacy stack: Java 7, Spring, Tomcat, Jersey, Oracle, Cucumber, Spring Batch.
+  * Part of a backend team engaged in all parts of an independent sub-business of Tesco Bank
+  * Initially Senior SE, currently Tech Lead responsible for the ongoing maintainance and development of all backend software services supporting the business.
+  * Mentoring and supporting a team of devs to work autonomously and productively. Encouraging sharing of views and problems.
+  * Working with solution architect, product leadss and other tech leads to design and implement solutions.
+  * Maintaining, updating and extending main backend services - a programme of continuous renovation. Replacing proprietary systems with mature OSS solutions.
+  * Design and build of selected services using fine-grained services, targetting Kubernetes on Microsoft Azure (AKS)
+  * Lead migration programme to exit end-of-life payment system, built using Python/Kubernetes.
+  * Main tech stack: Java 8, Spring, Tomcat, Jersey, Oracle, Cucumber
+  * "Cloud" tech stack: Java 11-15, Spring Boot/Security/OAuth/Data, Hibernate, Kotlin, Groovy Wiremock, Kubernetes, Jenkins. CI/CD via Azure piplines.
   * Gained experience with Azure infrastructure, building pipelines for new services, deploying to an AKS Cluster, and integrating with App Gateway, KeyVault.
-  * Scheduled, planned and hosted meetings for Java development team to discuss technical matters, best practice, refinement etc.
+  * Scheduling, planning and hosting twice-weekly meetings for backend team and other stakeholders to discuss technical matters, best practice, refinement etc.
 
 **Java Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-July 2018)
 
