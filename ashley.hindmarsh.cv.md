@@ -21,39 +21,42 @@
 ### Development
  * General: Object-oriented, with a functional mindset. Focus on using TDD/BDD to drive clean, maintainable code.
  * Use of containerization (Docker) to reduce distance between development and production.
- * Java (10+ years): Oracle Certified Associate (Java 8). Spring ecosystem, Java (up to 15), Reactive, Apache Camel, TDD/BDD (JUnit, Mockito, Cucumber-JVM), REST (JAX-RS/Jersey/Spring), Maven/Gradle, JAXB, JSON, DropWizard.
+ * Java/JVM (10+ years): Oracle Certified Associate (Java 8). Spring  ecosystem, Java (up to 18), Kotlin (1 year), Spring Boot, Apache Camel, TDD/BDD (JUnit, Mockito, Cucumber-JVM), REST, Maven/Gradle, DropWizard.
  * Perl (10+ years): "Modern Perl" OO (Moose/Moo, Plack) - database apps, web services, data-processing (XML, JSON etc).
- * Other dynamic languages: Javascript (vanilla, and node.js), Ruby, Python (varying experience)
+ * Other dynamic languages: Pyth*n (strong), Gro*vy, Jav*script, R*by (varying experience)
  * Frontend: _I've been working with Web UIs throughout my career. Now I mainly maintain rather than develop because it's a massive field in itself. So I'm fine with HTML, CSS, Javascript, Bootstrap, templating_
  * Relational databases: applications, schema design, query design and optimisation
  * "NoSQL" databases and key/value stores (e.g. DynamoDB, Redis, Memcached)
 
 ### Delivery
- * Web-scale architecture: availability, maintainability, API design, caching, volumetrics, microservices, performance testing.
+ * Web-scale architecture: observability, maintainability, API design, caching, volumetrics, microservices, performance testing.
  * Distributed systems: Design and maintenance for monoliths, microservices and message-oriented systems. They all have their place.
  * Cloud (IaaS/PaaS):
     * AWS & Azure (architecture and implementation): Using comparable tech across both: Compute / Kubernetes / Queue / DB / IAM / Files / IaC
     * Recent Azure experience, using Azure Devops pipelines, deploying into AKS clusters, App Gateway, KeyVault.
  * Security: PKI; SSO (OpenID Connect) hashing, encryption/decryption, signing/verification with XML standards, some exposure to SAML.
- * Support software/systems: Jenkins, Maven, Gradle, Puppet/Ansible, Subversion, Git, Jira, Confluence, Splunk
+ * Support software/systems: Jenkins, Maven, Gradle, P*ppet/Ansible, Git, Jira, Confluence, Splunk
 
 ## Experience
 
 ### Aug 2015-present: Contracting services t/a "Belle Software Ltd" (or an umbrella)
 
-**Senior Developer / Tech Lead** at Tesco PayPlus (London+remote / Oct 2018-present)
+**Contract Software Engineer** at 10x Banking (remote / Oct 2021-present)
+
+  * Developing and maintain various Microservices to deliver specifc new features for the 10x Banking platform, as part of a feature team.
+  * Worked on a variety of products serving different business and customer needs, targetting a production workload of millions of daily transactions, with equivalent data sets.
+  * Mostly Java/Kotlin with Spring Boot, with Kafka, Postgres, Elasticsearch. Deployed via CI/CD to Kubernetes clusters in AWS. Exposure to Terraform.
+  * Responsible for coding features to agreed spec, with relevant E2E and unit tests, and attention to observability, load testing and other NFRs.
+
+**Senior Developer / Tech Lead** at Tesco PayPlus (London+remote / Oct 2018-Oct 2021)
 
   * Part of a backend team engaged in all parts of an independent sub-business of Tesco Bank
-  * Initially Senior SE, currently Tech Lead responsible for the ongoing maintainance and development of all backend software services supporting the business.
-  * Mentoring and supporting a team of devs to work autonomously and productively. Encouraging sharing of views and problems.
-  * Working with solution architect, product leadss and other tech leads to design and implement solutions.
+  * Initially Senior SE, but later assumed a Tech Lead role, responsible for the ongoing maintainance and development of all backend software services supporting the business.
+  * Mentoring and supporting a team of devs to work autonomously and productively.  Encouraging sharing of views and problems.
+  * Working with solution architect, product leads and other tech leads to design and implement solutions.
   * Maintaining, updating and extending main backend services - a programme of continuous renovation. Replacing proprietary systems with mature OSS solutions.
-  * Design and build of selected services using fine-grained services, targetting Kubernetes on Microsoft Azure (AKS)
-  * Lead migration programme to exit end-of-life payment system, built using Python/Kubernetes.
-  * Main tech stack: Java 8, Spring, Tomcat, Jersey, Oracle, Cucumber
-  * "Cloud" tech stack: Java 11-15, Spring Boot/Security/OAuth/Data, Hibernate, Kotlin, Groovy Wiremock, Kubernetes, Jenkins. CI/CD via Azure piplines.
-  * Gained experience with Azure infrastructure, building pipelines for new services, deploying to an AKS Cluster, and integrating with App Gateway, KeyVault.
-  * Scheduling, planning and hosting twice-weekly meetings for backend team and other stakeholders to discuss technical matters, best practice, refinement etc.
+  * Led a migration programme to exit end-of-life payment system, built using Python/Kubernetes.
+  * Main tech stack: Java 8, Spring, Tomcat, Jersey, Oracle, Cucumber. Deployed via CI/CD to Kubernetes on Azure (built from scratch), and also legacy systems.
 
 **Java Software Engineer** on-site at Mendeley/Elsevier (London / Jan 2017-July 2018)
 
