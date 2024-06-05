@@ -9,5 +9,5 @@ Please copy/share as you see fit, but please respect the copyright of Steve Klab
 
 To build CVs locally for testing, try this (Unix/Docker reqd)
 
-    docker pull vpetersson/pandoc
+    docker pull pandoc/latex:2.6
     make all
